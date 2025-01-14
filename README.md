@@ -21,7 +21,6 @@
    ```bash
    git clone https://github.com/shuhaibkt02/outerparse-go.git
    cd outerparse-go
-   go build -o appName main.go
 2. Build the project
    ```bash
    go build -o appName main.go
